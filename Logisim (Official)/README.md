@@ -2,6 +2,11 @@ Logisim 2.7.1 fixes bugs, improves file handling
 
 Brought to you by: carlburch
 
+**Runs on any machine supporting Java 5 or later.**
+
+
+
+
 
 Logisim, a graphical design and simulation tool for logic circuits, is now at version 2.7.1. This release's primary purpose is to address several issue discovered since 2.7.0 was released two weeks ago.
 
